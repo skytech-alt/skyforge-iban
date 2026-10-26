@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-iban"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Валидация международных счетов IBAN."
+    репозиторий = "github.com/skytech-alt/skyforge-iban"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
